@@ -1,1 +1,1 @@
-# Subtitles
+# Parse srt files for better translation.
